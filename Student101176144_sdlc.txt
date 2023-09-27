@@ -1,2 +1,3 @@
 Content about the importance of learning DevOps engineer in software development cycle
 Faster Software Development
+Improved collaboration between development and operations teams
