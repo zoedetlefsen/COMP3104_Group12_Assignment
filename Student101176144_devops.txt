@@ -1,2 +1,3 @@
 Content about COMP3104 DevOPs Course
 In this course, we will explore the DevOps best practices along with some tools and technologies required to implement DevOps. By the end of the course, you will be prepared to explore job opportunities as a DevOps engineer.
+Devops is the best course to take!
