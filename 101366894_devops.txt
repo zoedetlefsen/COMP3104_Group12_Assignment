@@ -1,3 +1,4 @@
 Content about DevOps course
 In the COMP3104 DevOps course, we explore the practices of a DevOps engineer that they would use in the field.
 Devops is one of the most valuable courses to understand.
+DevOps is one of the classes that is required for the 5th semester at George Brown.
