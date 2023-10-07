@@ -1,3 +1,5 @@
 Content about the importance of learning DevOps
 Easier maintenance of deployments
 Increased product quality
+More stable operating environments
+More stable operating environments
