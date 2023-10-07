@@ -1,0 +1,3 @@
+COMP 3104 is a DevOps course at George Brown College
+This comprehensive DevOps course delves into the principles and practices behind effective development and operational collaboration. Participants will explore the lifecycle of software development, continuous integration, infrastructure as code, and efficient deployment strategies. With hands-on exercises and real-world scenarios, attendees will gain a deep understanding of the tools and techniques required to seamlessly integrate development and operations, resulting in faster and more reliable software releases. Ideal for IT professionals seeking a holistic approach to their workflow.
+
