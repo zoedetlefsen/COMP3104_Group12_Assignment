@@ -1,1 +1,2 @@
 Content about the importance of learning DevOps
+Easier maintenance of deployments
