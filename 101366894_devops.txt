@@ -1,1 +1,2 @@
 Content about DevOps course
+In the COMP3104 DevOps course, we explore the practices of a DevOps engineer that they would use in the field.
